@@ -10,9 +10,9 @@ Now relocating to **New Zealand** 🇳🇿 and open to global tech opportunities
 - 💻 Focused on building performant, maintainable web applications using **modern JavaScript frameworks**
 - 🧠 Strong background in front-end architecture, full-stack development (Node.js), and UI/UX collaboration
 - 🏢 Work experience includes leading technology companies in China:
-  - [**Baidu**](https://www.baidu.com)  
+  - [**Baidu**](https://ir.baidu.com/)  
     Leading AI and internet services company, well known for search, cloud, and deep learning technologies.
-  - [**Alibaba Group**](https://www.alibabagroup.com)  
+  - [**Alibaba Group**](https://www.alibabagroup.com/en-US/)  
     Global leader in e-commerce, cloud computing, and digital infrastructure.
   - [**Meituan**](https://www.meituan.com/en-US/about-us)  
     Major platform for food delivery, local services, and on-demand consumer technology.
