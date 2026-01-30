@@ -29,7 +29,7 @@ Now relocating to **New Zealand** 🇳🇿 and open to global tech opportunities
 
 ## 🔧 Featured Projects
 
-- [**Modern Portfolio Site**](https://github.com/yourusername/portfolio)  
+- [**Modern Portfolio Site**](https://euanfan.github.io/Portfolio/)  
   A personal portfolio site built with React + Tailwind CSS, including dark mode, mobile responsiveness, and contact form.
 
 - [**Real-Time Chat App**](https://github.com/yourusername/realtime-chat)  
