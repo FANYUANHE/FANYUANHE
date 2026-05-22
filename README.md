@@ -1,4 +1,4 @@
-# Hi, I'm YuanHe Fan
+# Hi, I'm Yuanhe Fan
 ## About
 
 Senior Frontend Engineer with strong full-stack experience in multi-platform products and internal platform development. Strong in engineering systems, performance optimization, and reusable foundations that help complex businesses ship faster and more reliably.
